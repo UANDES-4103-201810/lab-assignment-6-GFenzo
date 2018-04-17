@@ -25,7 +25,7 @@ class UsersController < ApplicationController
   # POST /users
   # POST /users.json
   def create
-    #complete this method
+        #complete this method
   end
 
   # PATCH/PUT /users/1
